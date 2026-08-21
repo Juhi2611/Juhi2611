@@ -43,23 +43,21 @@ flowchart LR
 
 <div align="center">
 
-<a href="https://github.com/Juhi2611/traffic-ai">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juhi2611&repo=traffic-ai&hide_border=true&bg_color=0A0E17&title_color=5EEAD4&icon_color=F472B6&text_color=94A3B8" />
+<a href="https://github.com/Juhi2611/Spark-Odoo-2026">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juhi2611&repo=Spark-Odoo-2026&hide_border=true&bg_color=0A0E17&title_color=5EEAD4&icon_color=F472B6&text_color=94A3B8" />
 </a>
-<a href="https://github.com/Juhi2611/medical-ai">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juhi2611&repo=medical-ai&hide_border=true&bg_color=0A0E17&title_color=5EEAD4&icon_color=F472B6&text_color=94A3B8" />
+<a href="https://github.com/Juhi2611/FinalTeamUp">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juhi2611&repo=FinalTeamUp&hide_border=true&bg_color=0A0E17&title_color=5EEAD4&icon_color=F472B6&text_color=94A3B8" />
 </a>
 
 <br/>
 
-<a href="https://github.com/Juhi2611">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juhi2611&repo=YOUR_REPO_3&hide_border=true&bg_color=0A0E17&title_color=818CF8&icon_color=F472B6&text_color=94A3B8" />
+<a href="https://github.com/Juhi2611/bff">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juhi2611&repo=bff&hide_border=true&bg_color=0A0E17&title_color=818CF8&icon_color=F472B6&text_color=94A3B8" />
 </a>
-<a href="https://github.com/Juhi2611">
-<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juhi2611&repo=YOUR_REPO_4&hide_border=true&bg_color=0A0E17&title_color=818CF8&icon_color=F472B6&text_color=94A3B8" />
+<a href="https://github.com/Juhi2611/Eye-Cursor-Using-Python">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juhi2611&repo=Eye-Cursor-Using-Python&hide_border=true&bg_color=0A0E17&title_color=818CF8&icon_color=F472B6&text_color=94A3B8" />
 </a>
-
-<sub>💡 swap <code>traffic-ai</code> / <code>medical-ai</code> / <code>YOUR_REPO_3</code> / <code>YOUR_REPO_4</code> for your real repo names — each card then auto-pulls that repo's description, stars, and language.</sub>
 
 </div>
 
@@ -107,19 +105,25 @@ flowchart LR
 
 <br/>
 
-### `// 07. activity`
+### `// 07. contributions`
 
 <div align="center">
+
+<sub><code>juhi@github ~ $ git log --stat --author=Juhi2611 --since="1 year ago"</code></sub>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Juhi2611&show_icons=true&hide_border=true&bg_color=0A0E17&title_color=5EEAD4&icon_color=F472B6&text_color=94A3B8&ring_color=818CF8" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Juhi2611&hide_border=true&background=0A0E17&ring=818CF8&fire=F472B6&currStreakLabel=5EEAD4&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=475569" width="49%"/>
 
-<br/>
+<br/><br/>
+
+<sub><code>juhi@github ~ $ ls --lang --by-bytes | sort -r</code></sub>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhi2611&layout=donut&hide_border=true&bg_color=0A0E17&title_color=5EEAD4&text_color=94A3B8" width="42%"/>
 <img src="https://github-profile-trophy.vercel.app/?username=Juhi2611&theme=dracula&no-frame=true&column=3&margin-w=8&margin-h=8&row=2" width="52%"/>
 
-<br/>
+<br/><br/>
+
+<sub><code>juhi@github ~ $ tail -f contribution_graph.log</code></sub>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juhi2611&hide_border=true&bg_color=0A0E17&color=94A3B8&line=5EEAD4&point=F472B6&area=true&area_color=818CF8" width="95%"/>
 
@@ -143,3 +147,4 @@ flowchart LR
 <div align="center">
 <sub>// end of profile.py — thanks for reading the source</sub>
 </div>
+
