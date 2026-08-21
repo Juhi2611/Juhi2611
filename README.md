@@ -63,7 +63,20 @@ flowchart LR
 
 <br/>
 
-### `// 04. what pulls my attention`
+### `// 04. live deployments`
+
+<table>
+<tr>
+<td width="25%" align="center">🥶<br/><b>BFF</b><br/><sub>Bharat Freeze Dry Foods — export-grade cold-chain business site</sub><br/><a href="https://bff-alpha-five.vercel.app/">Live →</a></td>
+<td width="25%" align="center">🧑‍💻<br/><b>Portfolio</b><br/><sub>personal portfolio — projects, skills, education</sub><br/><a href="https://juhi-vanjara-interactive-portfolio-theta.vercel.app/">Live →</a></td>
+<td width="25%" align="center">🔍<br/><b>LinguaLens</b><br/><sub>AI tool that analyzes, translates &amp; gives deep insight into text across languages</sub><br/><a href="https://lingualens-three.vercel.app/">Live →</a></td>
+<td width="25%" align="center">🧴<br/><b>Skinn Care</b><br/><sub>skincare brand landing page with interactive UI</sub><br/><a href="https://skinn-care-a4c8.vercel.app/">Live →</a></td>
+</tr>
+</table>
+
+<br/>
+
+### `// 05. what pulls my attention`
 
 <table>
 <tr>
@@ -76,7 +89,7 @@ flowchart LR
 
 <br/>
 
-### `// 05. currently training on`
+### `// 06. currently training on`
 
 ```
 [■■■■■■■■□□] Machine Learning
@@ -88,7 +101,7 @@ flowchart LR
 
 <br/>
 
-### `// 06. stack`
+### `// 07. stack`
 
 <div align="center">
 
@@ -105,14 +118,14 @@ flowchart LR
 
 <br/>
 
-### `// 07. contributions`
+### `// 08. contributions`
 
 <div align="center">
 
 <sub><code>juhi@github ~ $ git log --stat --author=Juhi2611 --since="1 year ago"</code></sub>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Juhi2611&show_icons=true&hide_border=true&bg_color=0A0E17&title_color=5EEAD4&icon_color=F472B6&text_color=94A3B8&ring_color=818CF8" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juhi2611&hide_border=true&background=0A0E17&ring=818CF8&fire=F472B6&currStreakLabel=5EEAD4&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=475569" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Juhi2611&hide_border=true&background=0A0E17&ring=818CF8&fire=F472B6&currStreakLabel=5EEAD4&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=475569" width="49%"/>
 
 <br/><br/>
 
@@ -131,7 +144,7 @@ flowchart LR
 
 <br/>
 
-### `// 08. connect`
+### `// 09. connect`
 
 <div align="center">
 
@@ -147,4 +160,3 @@ flowchart LR
 <div align="center">
 <sub>// end of profile.py — thanks for reading the source</sub>
 </div>
-
