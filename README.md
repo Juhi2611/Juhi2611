@@ -1,51 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20there,%20I'm%20Juhi%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Developer%20in%20the%20Making&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=80&lines=Building+intelligent+systems+from+ideas+%F0%9F%A7%A0;Computer+Vision+%7C+RAG+%7C+Generative+AI;Turning+data+into+decisions%2C+one+model+at+a+time" />
-
-<br/>
-
-<a href="https://github.com/Juhi2611"><img src="https://img.shields.io/badge/GitHub-Juhi2611-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/juhivanjara"><img src="https://img.shields.io/badge/LinkedIn-juhivanjara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="./assets/banner.svg" width="100%"/>
 
 </div>
 
 <br/>
 
-## 🧠 About Me
+<!-- // 01. ABOUT -->
+### `// 01. about`
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+I'm Juhi — an **AI/ML developer in the making**, building systems that don't just process data but *make sense of it*: reading a traffic frame and deciding what happens next, reading a medical query and grounding it in real context instead of guessing.
 
-- 🎓 AI/ML Developer in the making, exploring the space where **data meets intelligence**
-- 🚦 Passionate about **Computer Vision** — building systems that *see and understand* the real world (like intelligent traffic management)
-- 🩺 Exploring **Generative AI & RAG** to build smarter, context-aware Medical AI applications
-- 🔭 Currently deep-diving into **Machine Learning, Generative AI, RAG, and AI Agents**
-- ⚡ Fun fact: I believe every great model starts as a messy notebook full of `print(df.head())`
-- 🌱 Always learning, always building, always debugging (it's a lifestyle at this point)
+I like problems where the model has to be right, not just impressive — that's what pulls me toward **computer vision** and **retrieval-grounded GenAI** instead of chasing whatever's trending.
 
-<br clear="right"/>
+<br/>
 
----
+<!-- // 02. WHAT I BUILD -->
+### `// 02. what i build`
 
-## ⚡ What I Build
+```mermaid
+flowchart LR
+    A[Raw Data] --> B{What kind?}
+    B -- Video / Frames --> C[Computer Vision]
+    B -- Text / Queries --> D[RAG + GenAI]
+    C --> E[🚦 Intelligent Traffic Systems]
+    D --> F[🩺 Medical AI]
+    E --> G[Deployed AI Applications]
+    F --> G
+    G --> H[📊 ML Solutions that actually ship]
 
-<div align="center">
+    style A fill:#0D1220,stroke:#5EEAD4,color:#5EEAD4
+    style B fill:#0D1220,stroke:#818CF8,color:#818CF8
+    style C fill:#111827,stroke:#5EEAD4,color:#E2E8F0
+    style D fill:#111827,stroke:#F472B6,color:#E2E8F0
+    style E fill:#0D1220,stroke:#5EEAD4,color:#E2E8F0
+    style F fill:#0D1220,stroke:#F472B6,color:#E2E8F0
+    style G fill:#111827,stroke:#818CF8,color:#E2E8F0
+    style H fill:#0D1220,stroke:#5EEAD4,color:#5EEAD4
+```
 
-| 🚦 Intelligent Traffic Systems | 🩺 Medical AI |
-|:---:|:---:|
-| Real-time **Computer Vision** models for traffic flow, congestion detection & smart signaling | **RAG / GenAI**-powered systems for medical insight generation and decision support |
+<br/>
 
-| 🤖 AI Applications | 📊 ML Solutions |
-|:---:|:---:|
-| End-to-end intelligent apps that solve real, everyday problems | Predictive models & data pipelines that turn raw data into real insight |
-
-</div>
-
----
-
-## 🛠️ Tech Stack
+<!-- // 03. STACK -->
+### `// 03. stack`
 
 <div align="center">
 
@@ -53,81 +50,55 @@
 
 <br/><br/>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+<img src="https://img.shields.io/badge/NumPy-0A0E17?style=flat-square&logo=numpy&logoColor=5EEAD4"/>
+<img src="https://img.shields.io/badge/Pandas-0A0E17?style=flat-square&logo=pandas&logoColor=818CF8"/>
+<img src="https://img.shields.io/badge/scikit--learn-0A0E17?style=flat-square&logo=scikitlearn&logoColor=F472B6"/>
+<img src="https://img.shields.io/badge/OpenCV-0A0E17?style=flat-square&logo=opencv&logoColor=5EEAD4"/>
 
 </div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Juhi2611">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juhi2611&repo=traffic-ai&theme=radical&hide_border=true" />
-</a>
-<a href="https://github.com/Juhi2611">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Juhi2611&repo=medical-ai&theme=radical&hide_border=true" />
-</a>
-
-<sub>💡 Replace <code>traffic-ai</code> / <code>medical-ai</code> above with your actual repo names so these auto-populate correctly.</sub>
-
-</div>
-
----
-
-## 🔥 GitHub Stats & Streak
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Juhi2611&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juhi2611&theme=radical&hide_border=true" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhi2611&layout=compact&theme=radical&hide_border=true" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=Juhi2611&theme=radical&no-frame=true&column=4&margin-w=8&margin-h=8" width="49%"/>
+<!-- // 04. CURRENTLY LEARNING -->
+### `// 04. currently training on`
 
-</div>
+```
+[■■■■■■■■□□] Machine Learning
+[■■■■■□□□□□] Generative AI
+[■■■□□□□□□□] RAG
+[■■□□□□□□□□] AI Agents
+```
+<sub>self-reported, updated as I go — not a leaderboard, just a log</sub>
 
----
+<br/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juhi2611&theme=redical&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+<!-- // 05. STATS -->
+### `// 05. activity`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Juhi2611/Juhi2611/output/github-contribution-grid-snake.svg" width="95%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Juhi2611&show_icons=true&hide_border=true&bg_color=0A0E17&title_color=5EEAD4&icon_color=F472B6&text_color=94A3B8&ring_color=818CF8" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juhi2611&hide_border=true&background=0A0E17&ring=818CF8&fire=F472B6&currStreakLabel=5EEAD4&sideLabels=94A3B8&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=475569" width="49%"/>
 
-<sub>⚙️ This snake animation needs a one-time GitHub Actions setup — see the "Snake animation" step below.</sub>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Juhi2611&hide_border=true&bg_color=0A0E17&color=94A3B8&line=5EEAD4&point=F472B6&area=true&area_color=818CF8" width="95%"/>
 
 </div>
 
----
+<br/>
 
-## 🌐 Connect With Me
+<!-- // 06. CONNECT -->
+### `// 06. connect`
 
 <div align="center">
 
-<a href="https://github.com/Juhi2611"><img src="https://img.shields.io/badge/GitHub-Juhi2611-6C63FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/juhivanjara"><img src="https://img.shields.io/badge/LinkedIn-juhivanjara-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Juhi2611&label=Profile%20Views&color=6c63ff&style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub-Juhi2611-0A0E17?style=flat-square&logo=github&logoColor=5EEAD4"/>
+<img src="https://img.shields.io/badge/LinkedIn-juhivanjara-0A0E17?style=flat-square&logo=linkedin&logoColor=818CF8"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<div align="center">
+<sub>// end of profile.py — thanks for reading the source</sub>
+</div>
+
